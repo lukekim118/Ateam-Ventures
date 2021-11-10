@@ -65,7 +65,19 @@ const PostList = () => {
             setPosts(allPosts)
         }
     },[switchState])
-    if (posts.length === 0) return null;
+    if (posts.length === 0) return <div className="content">
+                                        <Filter methodFilter={methodFilter} 
+                                        setMethodFilter={setMethodFilter} 
+                                        materialFilter={materialFilter} 
+                                        setMaterialFilter={setMaterialFilter}
+                                        methodCheck={methodCheck}
+                                        materialCheck={materialCheck}
+                                        switchState={switchState}
+                                        setSwitchState={setSwitchState}
+                                        methodFilled={methodFilled}
+                                        materialFilled={materialFilled}/>
+                                        <div className="noContent"><p>조건맞는 견적 요청이 없습니다</p></div>
+                                    </div>
     return(
         <div className="content">
             <Filter 
