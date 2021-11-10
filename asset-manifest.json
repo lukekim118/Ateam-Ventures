@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Ateam-Ventures/static/css/main.8b63cc8e.chunk.css",
-    "main.js": "/Ateam-Ventures/static/js/main.cdf74fc2.chunk.js",
-    "main.js.map": "/Ateam-Ventures/static/js/main.cdf74fc2.chunk.js.map",
+    "main.css": "/Ateam-Ventures/static/css/main.a72cea87.chunk.css",
+    "main.js": "/Ateam-Ventures/static/js/main.47cc6605.chunk.js",
+    "main.js.map": "/Ateam-Ventures/static/js/main.47cc6605.chunk.js.map",
     "runtime-main.js": "/Ateam-Ventures/static/js/runtime-main.7763b51d.js",
     "runtime-main.js.map": "/Ateam-Ventures/static/js/runtime-main.7763b51d.js.map",
     "static/js/2.1c987253.chunk.js": "/Ateam-Ventures/static/js/2.1c987253.chunk.js",
     "static/js/2.1c987253.chunk.js.map": "/Ateam-Ventures/static/js/2.1c987253.chunk.js.map",
     "index.html": "/Ateam-Ventures/index.html",
-    "static/css/main.8b63cc8e.chunk.css.map": "/Ateam-Ventures/static/css/main.8b63cc8e.chunk.css.map",
+    "static/css/main.a72cea87.chunk.css.map": "/Ateam-Ventures/static/css/main.a72cea87.chunk.css.map",
     "static/js/2.1c987253.chunk.js.LICENSE.txt": "/Ateam-Ventures/static/js/2.1c987253.chunk.js.LICENSE.txt",
     "static/media/vector.476fdb71.svg": "/Ateam-Ventures/static/media/vector.476fdb71.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7763b51d.js",
     "static/js/2.1c987253.chunk.js",
-    "static/css/main.8b63cc8e.chunk.css",
-    "static/js/main.cdf74fc2.chunk.js"
+    "static/css/main.a72cea87.chunk.css",
+    "static/js/main.47cc6605.chunk.js"
   ]
 }
